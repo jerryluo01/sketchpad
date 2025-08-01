@@ -10,4 +10,5 @@
 .grid-square {
     box-sizing: border-box;
     border: 1px dotted rgba(0, 0, 0, 0.055);
+    user-select: none;
 }
